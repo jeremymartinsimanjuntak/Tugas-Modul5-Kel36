@@ -71,12 +71,13 @@ alert ('Berhasil!');
           )}
         </Grid>
       </div>
-      <Modal title="Deskrpsi"
+      <Modal title="Deskripsi"
         visible={isModalVisible}
         onOk={action}
         onCancel={handleOk}
       >
           <p>Detail Test</p>
+          <p>Kelompok 36</p>
       </Modal>
     </>
   );
