@@ -1,0 +1,13 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "Jeremy Martin Simanjuntak",
+        "nim": "21120118120024",
+        "ttl" : "Padangsidimpuan, 8 Juli 2000"
+    }, {
+        "id": 2,
+        "name": "Afrina Ayu Insani",
+        "nim": "211201181xxxxx",
+        "ttl": "xxxx"
+    }]
+}
